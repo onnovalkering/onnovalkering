@@ -9,8 +9,10 @@ The Microsoft certifications I've earned are mainly about Microsoft Azure and re
 - [AZ-400: DevOps Engineer](https://learn.microsoft.com/en-us/users/onnovalkering/credentials/57888eb5e776cb8)
 
 ### Associate
-
 - [AZ-104: Azure Administrator](https://learn.microsoft.com/en-us/users/onnovalkering/credentials/e396726ae070d6fa)
 - [AZ-204: Azure Developer](https://learn.microsoft.com/en-us/users/onnovalkering/credentials/c9a2b2a46537d4e6)
 - [DP-100: Azure Data Scientist](https://learn.microsoft.com/en-us/users/onnovalkering/credentials/92c46bd57f0091c8)
-- [DP-203: Azure Data Engineer](https://learn.microsoft.com/en-us/users/onnovalkering/credentials/62b07d1ae852a50c)
+- [DP-700: Fabric Data Engineer](https://learn.microsoft.com/en-us/users/onnovalkering/credentials/4ba0387a772005ea)
+
+### Fundamentals
+- [SC-900: Security, Compliance, and Identity](https://learn.microsoft.com/en-us/users/onnovalkering/credentials/e2ce3f3a9bcc8b4b)
